@@ -1,0 +1,174 @@
+.wrapper {
+  padding: 90px 0px 60px;
+  display: block;
+}
+
+.intro {
+  display: inline-block;
+  width: 100%;
+}
+
+.intro-left-box {
+  width: 40%;
+  float: left;
+}
+
+.claim-btn {
+  display: flex;
+  align-items: center;
+  background-color: #74ba0d;
+  color: white;
+  padding: 14px 20px;
+  display: inline-block;
+}
+
+.img1 {
+  width: 60%;
+  float: right;
+}
+/* .section1 {
+  display: inline;
+} */
+
+.watch-link {
+  color: #0d82df;
+  margin: 17px 0px 0px 15px;
+  border-bottom: 1px dashed #0d82df;
+  font-style: italic;
+}
+
+.wrap-counter {
+  padding: 40px 0px;
+}
+.numbers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.number-n {
+  border: 1px solid black;
+  border-radius: 3px;
+  /* padding: 9px 0px; */
+  margin: 0px 10px 0px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 39px;
+}
+
+.comma {
+  margin: 0px 5px 0px -3px;
+}
+
+.ttl {
+  color: #848e79;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.section-header {
+  display: flex;
+  margin: 0px 150px;
+  flex-direction: column;
+  text-align: center;
+}
+.section-header h2 {
+  margin: 0px 0px 31px;
+}
+.section-header p {
+  box-sizing: inherit;
+}
+
+.solution-section {
+  padding: 75px 0px 0px;
+}
+
+.solutions-tab ul {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  list-style: none;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}
+
+.solutions-tab li {
+  text-align: center;
+}
+.solutions-tab a {
+  display: block;
+  background-color: #ffffff;
+  padding: 20px 26px;
+}
+
+.solution-output {
+  padding: 40px 0px;
+}
+
+.solution-output p {
+  margin: 0px 250px 48px;
+}
+
+.testimonials {
+  padding: 150px 0px 0px;
+  margin: 0px 40px;
+}
+
+.testimonials blockquote {
+  padding: 0px 30px;
+}
+
+.testimonials q {
+  margin: 0px 0px 36px;
+  padding: 17px 18px 17px 19px;
+}
+
+.testimonials cite {
+  padding: 5px 0px 0px 75px;
+  display: inline-block;
+  flex-flow: column wrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.cta-section {
+  margin: 130px 0px 0px;
+  padding: 40px 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.services {
+  padding: 150px 0px 0px;
+}
+
+.services-header {
+  margin: 0px 40px 60px;
+  text-align: center;
+}
+
+.row-three-columns {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.row-three-columns article {
+  padding: 0px 23px 40px;
+  text-align: center;
+  display: block;
+  width: 29.5%;
+}
+
+.row-three-columns h3 {
+  padding: 0px 0px 13px;
+}
